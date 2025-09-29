@@ -53,8 +53,18 @@ Welcome to the Git Collaboration Workshop! Below are your team assignments for t
 - **Person B:** Soukaina Bekkous (GitHub: `sokaina001`)
 - **Repository Name:** `git-workshop-charki-bekkous`
 
+### Team 7: **dxvr2109** & **D3r0xid**
+- **Person A:** Mouad mal9uk (GitHub: `dxvr2109`)
+- **Person B:** Mohammed chroqui (GitHub: `D3r0xid`)
+- **Repository Name:** `git-workshop-chroqui-mal9uk`
+
+### Team 8: **R2id7** & **sokaina001**
+- **Person A:** Marouane Akid (GitHub: `R2id7`)
+- **Person B:** DAHIR ASSIA (GitHub: `assia2024-dot`)
+- **Repository Name:** `git-workshop-akid-assia`
+
 ---
-Marouane Akid (GitHub: `R2id7`)
+
 
 ## 📝 Before You Start
 
