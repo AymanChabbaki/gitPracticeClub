@@ -20,10 +20,10 @@ Welcome to the Git Collaboration Workshop! Below are your team assignments for t
 
 ---
 
-### Team 2: **Ayoubidbarka** & **Raihana Hassouna**
+### Team 2: **Ayoubidbarka** & **NACER-EDDINE05**
 - **Person A:** Ayoubidbarka (GitHub: `Ayoubidbarka`)
 - **Person B:** El hanine Nacer Eddine (GitHub: `NACER-EDDINE05`)
-- **Repository Name:** `git-workshop-ayoub-raihana`
+- **Repository Name:** `git-workshop-ayoub-nacer`
 
 ---
 
@@ -34,17 +34,17 @@ Welcome to the Git Collaboration Workshop! Below are your team assignments for t
 
 ---
 
-### Team 4: **NACER-EDDINE05** & **moustaghffiirkawtar-hash**
+### Team 4: **Raihana hassouna** & **moustaghffiirkawtar-hash**
 - **Person A:** Raihana Hassouna (GitHub: `Raihana hassouna`)
 - **Person B:** Moustaghfir Kawtar (GitHub: `moustaghffiirkawtar-hash`)
 - **Repository Name:** `git-workshop-Raihana-kawtar`
 
 ---
 
-### Team 5: **R2id7** & **moutawakel-hiba**
-- **Person A:** Marouane Akid (GitHub: `R2id7`)
+### Team 5: **Bougrich** & **moutawakel-hiba**
+- **Person A:** Hafida BOUGRICH (GitHub: `Bougrich`)
 - **Person B:** Hiba Moutawakel (GitHub: `moutawakel-hiba`)
-- **Repository Name:** `git-workshop-marouane-hiba`
+- **Repository Name:** `git-workshop-hafida-hiba`
 
 ---
 
@@ -54,7 +54,7 @@ Welcome to the Git Collaboration Workshop! Below are your team assignments for t
 - **Repository Name:** `git-workshop-charki-bekkous`
 
 ---
-Hafida BOUGRICH (GitHub: `Bougrich`)
+Marouane Akid (GitHub: `R2id7`)
 
 ## 📝 Before You Start
 
